@@ -2,4 +2,4 @@
 void main(){
 	printf("hello github");
 	
-}
+} read
